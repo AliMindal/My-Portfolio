@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/My-Portfolio/static/css/main.8b2404e3.css",
+    "main.js": "/My-Portfolio/static/js/main.39b14865.js",
+    "static/js/787.128fc6e9.chunk.js": "/My-Portfolio/static/js/787.128fc6e9.chunk.js",
+    "static/media/Ali Osman Resume.pdf": "/My-Portfolio/static/media/Ali Osman Resume.58d11dc34e56204c8626.pdf",
+    "static/media/Ali.dev-logo001.webp": "/My-Portfolio/static/media/Ali.dev-logo001.3b17707eac9cb4e75799.webp",
+    "static/media/about.png": "/My-Portfolio/static/media/about.2c3a08e77def69ce4d9c.png",
+    "static/media/skills.png": "/My-Portfolio/static/media/skills.af2c431c7679545b4c4c.png",
+    "index.html": "/My-Portfolio/index.html",
+    "main.8b2404e3.css.map": "/My-Portfolio/static/css/main.8b2404e3.css.map",
+    "main.39b14865.js.map": "/My-Portfolio/static/js/main.39b14865.js.map",
+    "787.128fc6e9.chunk.js.map": "/My-Portfolio/static/js/787.128fc6e9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8b2404e3.css",
+    "static/js/main.39b14865.js"
+  ]
+}
